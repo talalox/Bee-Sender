@@ -4,4 +4,4 @@ Bee Sender-ERC20 Token Multi Sender.Packer your multi transfer in one transactio
 Current support network:<br>
 Binance,Huobi,Fantom,Polygon and Ropsten testnetwork.<br>
 
-https://algonetwork.github.io/bee-sender/
+https://algonetwork.github.io/Bee-Sender/
