@@ -5,3 +5,15 @@ Current support network:<br>
 Binance,Huobi,Fantom,Polygon and Ropsten testnetwork.<br>
 <img src="https://github.com/AlgoNetwork/Bee-Sender/blob/main/sender.png" alt="generate-erc20-token">
 https://algonetwork.github.io/Bee-Sender/
+
+# Need More?
+If you need to deploy multi sender to other blockchains, please donate some coins, at least the number of contracts that can be deployed, and leave a message:<br>
+https://github.com/AlgoNetwork/Bee-Sender/issues<br>
+
+0.1 or 0.01?<br>
+Because some blockchain cryptocurrencies are too difficult to buy.<br>
+
+Donate to :<br>
+0xC340E120f7388Da2Fdd398792cf55a934Fe7AFc3<br>
+
+# You can deployed this source to any server without my approve.
