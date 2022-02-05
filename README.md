@@ -21,6 +21,6 @@ Donate to :<br>
 
 # Need Earn cryptocurrency?
 Open js/config.js<br>
-Change the address to your own,and you will recieve a half transfer fee when some user transfer their token on your website.<br>
+Change the address to your own address,and you will recieve a half transfer fee when some user transfer their token on your website.<br>
 
 # You can deployed this source to any server without my approve.
