@@ -8,7 +8,7 @@ Send Max addresses once:<br>
 <img src="https://github.com/AlgoNetwork/Bee-Sender/blob/main/sender.png" alt="generate-erc20-token">
 https://algonetwork.github.io/Bee-Sender/
 
-# Need More?
+# Need More Deploy ?
 If you need to deploy multi sender to other blockchains, please donate some coins, at least the number of contracts that can be deployed, and leave a message:<br>
 https://github.com/AlgoNetwork/Bee-Sender/issues<br>
 
