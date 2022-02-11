@@ -1,7 +1,7 @@
 # Bee Sender
 Bee Sender-ERC20 Token Multi Sender.Packer your multi transfer in one transaction and save your cost
 
-Current support network:<br>
+Current support Blockchain network:<br>
 Binance,Huobi,Fantom,Polygon and Ropsten testnetwork.<br><br>
 Send Max addresses once:<br>
 300-500<br>
