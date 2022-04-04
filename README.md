@@ -1,5 +1,6 @@
 # Bee Sender V1
 Bee Sender-ERC20 Token Multi Sender.Packer your multi transfer in one transaction and save your cost<br>
+Both version 1 and version 2 work fine.<br>
 
 #### Bee Sender v2 online now!<br>
 https://algonetwork.github.io/Bee-Sender-v2/<br>
