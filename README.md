@@ -4,6 +4,10 @@ Bee Sender-ERC20 Token Multi Sender.Packer your multi transfer in one transactio
 Bee Sender v2 Online now!<br>
 https://algonetwork.github.io/Bee-Sender-v2/<br>
 
+Support send with decimal amount,support CSV file!<br>
+
+Github:https://github.com/AlgoNetwork/Bee-Sender-v2<br>
+
 Current support Blockchain network:<br>
 Binance,Huobi,Fantom,Polygon,Avalanche and Ropsten testnetwork.<br><br>
 Send Max addresses once:<br>
